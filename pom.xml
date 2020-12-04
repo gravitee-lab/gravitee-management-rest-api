@@ -64,7 +64,7 @@
         <owasp-java-html-sanitizer.version>20191001.1</owasp-java-html-sanitizer.version>
         <spring-integration.version>5.2.5.RELEASE</spring-integration.version>
         <snakeyaml.version>1.26</snakeyaml.version>
-        <jackson.version>2.10.3</jackson.version>
+        <jackson.version>2.10.5.1</jackson.version>
         <json-schema-validator.version>2.2.14</json-schema-validator.version>
         <json-patch.version>1.13</json-patch.version>
     </properties>
