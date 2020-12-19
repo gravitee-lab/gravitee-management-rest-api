@@ -52,7 +52,7 @@
         <validation-api.version>2.0.1.Final</validation-api.version>
         <mail.version>1.4.7</mail.version>
         <freemarker.version>2.3.30</freemarker.version>
-        <java-jwt.version>3.10.2</java-jwt.version>
+        <java-jwt.version>3.12.0</java-jwt.version>
         <guava.version>29.0-jre</guava.version>
         <jsonpath.version>2.4.0</jsonpath.version>
         <lucene.version>7.5.0</lucene.version>
