@@ -37,7 +37,7 @@
         <spring.version>5.2.5.RELEASE</spring.version>
         <gravitee-definition.version>1.23.0</gravitee-definition.version>
         <gravitee-common.version>1.17.2</gravitee-common.version>
-        <gravitee-plugin.version>1.10.0</gravitee-plugin.version>
+        <gravitee-plugin.version>1.15.0</gravitee-plugin.version>
         <gravitee-repository.version>3.1.1</gravitee-repository.version>
         <gravitee-gateway-api.version>1.20.0</gravitee-gateway-api.version>
         <gravitee-fetcher-api.version>1.3.0</gravitee-fetcher-api.version>
@@ -58,10 +58,10 @@
         <lucene.version>7.5.0</lucene.version>
         <powermock.version>2.0.0</powermock.version>
         <commons-lang3.version>3.9</commons-lang3.version>
-        <swagger.version>1.6.1</swagger.version>
+        <swagger.version>1.6.2</swagger.version>
         <nimbus-jose-jwt.version>8.15</nimbus-jose-jwt.version>
         <flexmark.version>0.61.16</flexmark.version>
-        <owasp-java-html-sanitizer.version>20191001.1</owasp-java-html-sanitizer.version>
+        <owasp-java-html-sanitizer.version>20200615.1</owasp-java-html-sanitizer.version>
         <spring-integration.version>5.2.5.RELEASE</spring-integration.version>
         <snakeyaml.version>1.26</snakeyaml.version>
         <jackson.version>2.10.3</jackson.version>
